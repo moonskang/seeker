@@ -12,4 +12,4 @@ A practice project for searching things
 ### 오늘 한 일
 - [x] 깃허브 가입
 - [x] 첫 저장소 만들기
-- [ ] 첫 커밋하기
+- [x] 첫 커밋하기
