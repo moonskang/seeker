@@ -13,3 +13,8 @@ A practice project for searching things
 - [x] 깃허브 가입
 - [x] 첫 저장소 만들기
 - [x] 첫 커밋하기
+
+## Day 2 🌅
+
+오늘은 깃허브를 더 탐험해보는 날이에요.
+어제 카파시도 만났고, 토스 저장소도 봤어요.
